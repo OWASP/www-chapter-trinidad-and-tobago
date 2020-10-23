@@ -5,7 +5,7 @@ title: OWASP Trinidad And Tobago
 tags: example-tag
 level: 0
 
-region: Caribbean
+region: South America
 
 auto-migrated: 1
 
